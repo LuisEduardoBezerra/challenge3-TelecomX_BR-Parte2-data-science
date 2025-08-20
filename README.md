@@ -1,4 +1,4 @@
-# challenge3-TelecomX_BR-Parte2-data-science
+# Análise e Previsão de Evasão de Clientes - TelecomX BR
 📝 Resumo do Projeto
 Este projeto de ciência de dados tem como objetivo principal analisar os fatores que levam os clientes da TelecomX BR a cancelar seus serviços (evasão ou churn) e construir modelos preditivos para identificar os clientes com maior probabilidade de evadir. O projeto segue um fluxo de trabalho completo, desde a extração e transformação dos dados até a modelagem e a proposição de estratégias de negócios.
 
